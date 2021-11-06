@@ -1,0 +1,7 @@
+name: VillagerTradeChanger
+version: '${project.version}'
+main: jp.simplespace.villagertradechanger.VillagerTrade
+api-version: 1.17
+authors: [ Matchan ]
+description: 村人取引のレートを変更するプラグイン。
+website: https://simplespace.jp
