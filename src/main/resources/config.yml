@@ -1,0 +1,7 @@
+recipes:
+  mending:
+    material: EMERALD_BLOCK
+    count: [64,64]
+  fortune:
+    material: EMERALD_BLOCK
+    count: [30]
